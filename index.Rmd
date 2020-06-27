@@ -10,7 +10,7 @@ link-citations: yes
 description: "Este es un breve resumen de los conceptos básicos de la estadistica matemática y apliacada en varias ramas de las ciencias exactas y naturales. También contiene apliacaciones shiny elaboradas en R y Rstudio."
 ---
 
-# Prerequisites
+# Prerrequisitos
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
